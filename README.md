@@ -1,6 +1,7 @@
 # Recilience_of_Coal_Network
 Codes for article ''Quantifying the Resilience of Coal Energy Supply in China Toward Carbon Neutrality''
 
+```
 @article{
 doi:10.34133/research.0398,
 author = {Yongzheng Sun  and Guanghui Wen  and Haifeng Dai  and Yu Feng  and Sandro Azaele  and Wei Lin  and Fubao Zhou },
